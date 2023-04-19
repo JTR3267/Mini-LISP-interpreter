@@ -9,7 +9,7 @@ This is a final project for a compiler course, implementing a compiler for a par
 - gcc -c -g -I.. lex.yy.c
 - gcc -o fp y.tab.o lex.yy.o -ll
 ## Run it
-- ./fp <"your input file"
+./fp <"your input file".
 
 ## Operation Overview
 
